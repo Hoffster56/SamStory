@@ -1,0 +1,23 @@
+[33mcommit df2d877e3a7fe8c01921126f2b7fffa9c749a6a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Michael Wolak <wolak@royal-13.cs.wisc.edu>
+Date:   Sun Feb 24 14:14:45 2019 -0600
+
+    mwolak5 addition
+
+[33mcommit 3e49c5f8283516b60f8dfd13335d3876d840ef3f[m
+Author: Peyton Turner <pturner@royal-01.cs.wisc.edu>
+Date:   Sun Feb 24 14:01:39 2019 -0600
+
+    Peyton addition
+
+[33mcommit 2a297dbf744d4941adb9013ceb59bbf28e910c16[m
+Author: Samuel Hoffman <samuelh@royal-01.cs.wisc.edu>
+Date:   Sun Feb 24 13:38:15 2019 -0600
+
+    inital paragraph
+
+[33mcommit 713b6f5392413fa842c6395595259f7a7cca75b2[m
+Author: Hoffster56 <46939259+Hoffster56@users.noreply.github.com>
+Date:   Sun Feb 24 12:58:15 2019 -0600
+
+    Initial commit
