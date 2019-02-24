@@ -1,0 +1,6 @@
+pwd
+tree
+cd cs400
+..
+cd ..
+exit
